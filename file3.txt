@@ -1,1 +1,3 @@
 "this is thrid file" 
+"adding second line in file3" 
+"adding third line in file3" 
